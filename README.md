@@ -7,4 +7,5 @@ TO DO:
 3. not only first word usage
 
 Usage:
+
 ``*`` is for "any word"
