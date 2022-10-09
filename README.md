@@ -1,4 +1,4 @@
-# FilterParser
+# Parser Crop Word By Filter
 Finds and writes words from lines based on filter ["starting", "words"], "search-words", ["end" "words"]
 
 TO DO:
